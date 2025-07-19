@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+transformers
+torch
+python-dotenv
+requests
+gdown
